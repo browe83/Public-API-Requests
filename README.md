@@ -1,16 +1,14 @@
-# Public-API-Requests-Project-5
+# Public API Requests
+### TechDegree Project 5  
+Disclaimer: I completed this project as part of my Treehouse Full Stack JavaScript Techdegree. CSS and HTML were provided.
 
-JavaScript by Brandon Rowe
+## About
+This project builds an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. It requests a JSON object from the API and parses the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.  The left-hand image shows the initial display of 12 employes, while the right-hand displays an example of the modal window.
 
-Thank you for reviewing my project!!
+### Technologies
+* JavaScript
+* VSCode
+* GitHub
 
-I am going for exceeds expectations. As a result:
-
-1. a search bar has been added to filter employee directory by name.
-2. a way to toggle back and forth between employees when the modal window is open has been added.
-3. alterations to the styles.css were made including changing the background color of the body element as well as changing the font color of the card name and card text.
-
-Thanks again for your time, expertise and feedback.
-
-Best,
-Brandon
+## Installation
+After cloning repository, locate and open the index.html file to launch the app.
