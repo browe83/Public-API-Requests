@@ -11,4 +11,8 @@ This project builds an app for a fictional company called Awesome Startup, a dis
 * GitHub
 
 ## Installation
-After cloning repository, locate and open the index.html file to launch the app.
+```shell
+$ git clone https://github.com/browe83/List-Pagination-and-Filtering.git
+$ cd List-Pagination-and-Filtering
+$ open index.html
+```
